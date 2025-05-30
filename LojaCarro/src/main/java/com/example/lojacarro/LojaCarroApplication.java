@@ -1,4 +1,4 @@
-package com.ifrn.lojacarro;
+package com.example.lojacarro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

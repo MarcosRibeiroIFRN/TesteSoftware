@@ -1,5 +1,4 @@
-package com.ifrn.lojacarro;
-
+package com.example.lojacarro;
 
 import org.springframework.stereotype.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;

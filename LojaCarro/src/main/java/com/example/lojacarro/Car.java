@@ -1,4 +1,4 @@
-package com.ifrn.lojacarro;
+package com.example.lojacarro;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -15,5 +15,4 @@ public class Car {
     private String model;
     private String marca;
     private int ano;
-
 }
